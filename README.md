@@ -1,1 +1,4 @@
 # UFOs
+Written Summary:
+
+The purpose of this project was to create a website to display Dana's article and the data on UFOs she collected. We used javascript to to change the data into a table and added filters to the table so users can easily access the information they are looking for. Users are now able to filter the data by date, city, state, country, and shape and view the data in an easy to read table. We also used HTML and bootstrap create a nice layout and presentation for the information. One suggestion for further development is to add an option for filtering by using the 'enter' key in addition to the filter button. It is habbit (at least for me) to hit 'enter' after completing a search. Another suggestion is to create a 'download' option for users to download their table about they compelted their filters. 
